@@ -1,3 +1,4 @@
+# Animated isometric skills dashboard for the GitHub profile README.
 import math
 
 skills = [
