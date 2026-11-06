@@ -47,7 +47,7 @@
 ## 🧠 My Technical Skills
 
 <div align="center">
-  <img src="./skills-3d-contrib.svg" alt="Kishor's Data Analytics and Engineering Skills Dashboard" width="100%" />
+  <img src="https://raw.githubusercontent.com/g-kishor-official/g-kishor-official/main/skills-3d-contrib.svg?v=20261106" alt="Kishor's Data Analytics and Engineering Skills Dashboard" width="100%" />
 </div>
 
 ---
