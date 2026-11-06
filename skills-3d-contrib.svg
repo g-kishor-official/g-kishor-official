@@ -1,0 +1,221 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="570" viewBox="0 0 1100 570">
+
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#111827"/>
+        <stop offset="100%" stop-color="#020617"/>
+      </linearGradient>
+      <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%">
+        <feGaussianBlur stdDeviation="7"/>
+      </filter>
+    </defs>
+    <rect width="1100" height="570" rx="24" fill="url(#bg)"/>
+    <text x="55" y="65" fill="#f8fafc"
+      font-size="30" font-family="Arial" font-weight="bold">
+      MY DATA &amp; ANALYTICS SKILLS
+    </text>
+    <text x="57" y="96" fill="#94a3b8"
+      font-size="15" font-family="Arial">
+      Technology stack • Learning and development
+    </text>
+    
+<path d="M60 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M100 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M140 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M180 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M220 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M260 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M300 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M340 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M380 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M420 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M460 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M500 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M540 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M580 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M620 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M660 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M700 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M740 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M780 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M820 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M860 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M900 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M940 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M980 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M1020 125 V510" stroke="#334155" stroke-opacity=".18"/>
+<path d="M1060 125 V510" stroke="#334155" stroke-opacity=".18"/>
+
+    <g>
+      <rect x="75" y="153" width="430" height="66"
+        rx="12" fill="#000000" opacity=".35"
+        filter="url(#shadow)"/>
+      <rect x="75" y="145" width="430" height="66"
+        rx="12" fill="#1e293b" stroke="#334155"/>
+      <text x="93" y="171" fill="#f8fafc"
+        font-family="Arial" font-size="17" font-weight="bold">
+        Advanced Excel
+      </text>
+      <text x="485" y="171" fill="#22c55e"
+        font-family="Arial" font-size="15" text-anchor="end">
+        95%
+      </text>
+      <rect x="93" y="185" width="390"
+        height="9" rx="4.5" fill="#334155"/>
+      <rect x="93" y="185" width="370.5"
+        height="9" rx="4.5" fill="#22c55e"/>
+    </g>
+    
+
+    <g>
+      <rect x="585" y="153" width="430" height="66"
+        rx="12" fill="#000000" opacity=".35"
+        filter="url(#shadow)"/>
+      <rect x="585" y="145" width="430" height="66"
+        rx="12" fill="#1e293b" stroke="#334155"/>
+      <text x="603" y="171" fill="#f8fafc"
+        font-family="Arial" font-size="17" font-weight="bold">
+        SQL
+      </text>
+      <text x="995" y="171" fill="#38bdf8"
+        font-family="Arial" font-size="15" text-anchor="end">
+        75%
+      </text>
+      <rect x="603" y="185" width="390"
+        height="9" rx="4.5" fill="#334155"/>
+      <rect x="603" y="185" width="292.5"
+        height="9" rx="4.5" fill="#38bdf8"/>
+    </g>
+    
+
+    <g>
+      <rect x="75" y="247" width="430" height="66"
+        rx="12" fill="#000000" opacity=".35"
+        filter="url(#shadow)"/>
+      <rect x="75" y="239" width="430" height="66"
+        rx="12" fill="#1e293b" stroke="#334155"/>
+      <text x="93" y="265" fill="#f8fafc"
+        font-family="Arial" font-size="17" font-weight="bold">
+        Power BI
+      </text>
+      <text x="485" y="265" fill="#facc15"
+        font-family="Arial" font-size="15" text-anchor="end">
+        70%
+      </text>
+      <rect x="93" y="279" width="390"
+        height="9" rx="4.5" fill="#334155"/>
+      <rect x="93" y="279" width="273.0"
+        height="9" rx="4.5" fill="#facc15"/>
+    </g>
+    
+
+    <g>
+      <rect x="585" y="247" width="430" height="66"
+        rx="12" fill="#000000" opacity=".35"
+        filter="url(#shadow)"/>
+      <rect x="585" y="239" width="430" height="66"
+        rx="12" fill="#1e293b" stroke="#334155"/>
+      <text x="603" y="265" fill="#f8fafc"
+        font-family="Arial" font-size="17" font-weight="bold">
+        VBA
+      </text>
+      <text x="995" y="265" fill="#a78bfa"
+        font-family="Arial" font-size="15" text-anchor="end">
+        85%
+      </text>
+      <rect x="603" y="279" width="390"
+        height="9" rx="4.5" fill="#334155"/>
+      <rect x="603" y="279" width="331.5"
+        height="9" rx="4.5" fill="#a78bfa"/>
+    </g>
+    
+
+    <g>
+      <rect x="75" y="341" width="430" height="66"
+        rx="12" fill="#000000" opacity=".35"
+        filter="url(#shadow)"/>
+      <rect x="75" y="333" width="430" height="66"
+        rx="12" fill="#1e293b" stroke="#334155"/>
+      <text x="93" y="359" fill="#f8fafc"
+        font-family="Arial" font-size="17" font-weight="bold">
+        Power Query
+      </text>
+      <text x="485" y="359" fill="#fb923c"
+        font-family="Arial" font-size="15" text-anchor="end">
+        85%
+      </text>
+      <rect x="93" y="373" width="390"
+        height="9" rx="4.5" fill="#334155"/>
+      <rect x="93" y="373" width="331.5"
+        height="9" rx="4.5" fill="#fb923c"/>
+    </g>
+    
+
+    <g>
+      <rect x="585" y="341" width="430" height="66"
+        rx="12" fill="#000000" opacity=".35"
+        filter="url(#shadow)"/>
+      <rect x="585" y="333" width="430" height="66"
+        rx="12" fill="#1e293b" stroke="#334155"/>
+      <text x="603" y="359" fill="#f8fafc"
+        font-family="Arial" font-size="17" font-weight="bold">
+        Python
+      </text>
+      <text x="995" y="359" fill="#60a5fa"
+        font-family="Arial" font-size="15" text-anchor="end">
+        55%
+      </text>
+      <rect x="603" y="373" width="390"
+        height="9" rx="4.5" fill="#334155"/>
+      <rect x="603" y="373" width="214.5"
+        height="9" rx="4.5" fill="#60a5fa"/>
+    </g>
+    
+
+    <g>
+      <rect x="75" y="435" width="430" height="66"
+        rx="12" fill="#000000" opacity=".35"
+        filter="url(#shadow)"/>
+      <rect x="75" y="427" width="430" height="66"
+        rx="12" fill="#1e293b" stroke="#334155"/>
+      <text x="93" y="453" fill="#f8fafc"
+        font-family="Arial" font-size="17" font-weight="bold">
+        ETL &amp; Data Modeling
+      </text>
+      <text x="485" y="453" fill="#f472b6"
+        font-family="Arial" font-size="15" text-anchor="end">
+        65%
+      </text>
+      <rect x="93" y="467" width="390"
+        height="9" rx="4.5" fill="#334155"/>
+      <rect x="93" y="467" width="253.5"
+        height="9" rx="4.5" fill="#f472b6"/>
+    </g>
+    
+
+    <g>
+      <rect x="585" y="435" width="430" height="66"
+        rx="12" fill="#000000" opacity=".35"
+        filter="url(#shadow)"/>
+      <rect x="585" y="427" width="430" height="66"
+        rx="12" fill="#1e293b" stroke="#334155"/>
+      <text x="603" y="453" fill="#f8fafc"
+        font-family="Arial" font-size="17" font-weight="bold">
+        Git &amp; GitHub
+      </text>
+      <text x="995" y="453" fill="#94a3b8"
+        font-family="Arial" font-size="15" text-anchor="end">
+        50%
+      </text>
+      <rect x="603" y="467" width="390"
+        height="9" rx="4.5" fill="#334155"/>
+      <rect x="603" y="467" width="195.0"
+        height="9" rx="4.5" fill="#94a3b8"/>
+    </g>
+    
+
+  <text x="55" y="535" fill="#64748b"
+    font-family="Arial" font-size="13">
+    Kishor G • Data Analytics &amp; Engineering
+  </text>
+</svg>
