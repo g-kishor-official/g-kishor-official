@@ -44,10 +44,10 @@
 
 ---
 
-## 🌐 My 3D Contribution Graph
+## 🧠 My Technical Skills
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="./skills-3d-contrib.svg" alt="Kishor's Data Analytics and Engineering Skills Dashboard" width="100%" />
 </div>
 
 ---
